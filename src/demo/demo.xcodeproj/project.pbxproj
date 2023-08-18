@@ -35,6 +35,7 @@
 		072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A182A8F67F100059D7E /* C28_SceneStorage.swift */; };
 		072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */; };
 		072F3A1D2A8F703800059D7E /* C2901.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1C2A8F703800059D7E /* C2901.swift */; };
+		072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1F2A8F723600059D7E /* C30_Styling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		072F3A182A8F67F100059D7E /* C28_SceneStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C28_SceneStorage.swift; sourceTree = "<group>"; };
 		072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C29_Environment.swift; sourceTree = "<group>"; };
 		072F3A1C2A8F703800059D7E /* C2901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C2901.swift; sourceTree = "<group>"; };
+		072F3A1F2A8F723600059D7E /* C30_Styling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C30_Styling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				072F39E92A8F1A9800059D7E /* Started */,
 				072F39FA2A8F2E2300059D7E /* View */,
 				072F3A092A8F3DFD00059D7E /*  User Interface */,
+				072F3A1E2A8F71EA00059D7E /* Text & Fonts */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
 			);
@@ -161,6 +164,14 @@
 				072F3A1C2A8F703800059D7E /* C2901.swift */,
 			);
 			path = " User Interface";
+			sourceTree = "<group>";
+		};
+		072F3A1E2A8F71EA00059D7E /* Text & Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				072F3A1F2A8F723600059D7E /* C30_Styling.swift */,
+			);
+			path = "Text & Fonts";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,6 +249,7 @@
 				072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
+				072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */,
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
