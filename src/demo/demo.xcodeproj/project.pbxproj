@@ -46,6 +46,7 @@
 		072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */; };
 		072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A332A8F7ADB00059D7E /* C40_Image.swift */; };
 		072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */; };
+		072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C37_Text Field Keyboard Type.swift"; sourceTree = "<group>"; };
 		072F3A332A8F7ADB00059D7E /* C40_Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C40_Image.swift; sourceTree = "<group>"; };
 		072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C41_Crop an Image.swift"; sourceTree = "<group>"; };
+		072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C42_Icon from SF Symbols.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 			children = (
 				072F3A332A8F7ADB00059D7E /* C40_Image.swift */,
 				072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */,
+				072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */,
 			);
 			path = "Images & Icons";
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
+				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
