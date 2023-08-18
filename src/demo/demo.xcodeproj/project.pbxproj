@@ -41,6 +41,7 @@
 		072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A252A8F753800059D7E /* C33_Format Text.swift */; };
 		072F3A282A8F76C900059D7E /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */; };
 		072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */; };
+		072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
 		072F3A292A8F770400059D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C34_Custom Fonts.swift"; sourceTree = "<group>"; };
+		072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C35_Text Field.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 				072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */,
 				072F3A252A8F753800059D7E /* C33_Format Text.swift */,
 				072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */,
+				072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */,
 			);
 			path = "Text & Fonts";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				072F39DE2A8F1A8100059D7E /* ContentView.swift in Sources */,
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
+				072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */,
 				072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */,
