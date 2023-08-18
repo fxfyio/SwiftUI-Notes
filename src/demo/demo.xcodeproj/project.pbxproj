@@ -49,6 +49,7 @@
 		072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */; };
 		072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A392A8F7ED000059D7E /* C43_Context.swift */; };
 		072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */; };
+		072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3F2A8F815900059D7E /* C45_Shadow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +97,7 @@
 		072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C42_Icon from SF Symbols.swift"; sourceTree = "<group>"; };
 		072F3A392A8F7ED000059D7E /* C43_Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C43_Context.swift; sourceTree = "<group>"; };
 		072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C44_Custom Shape for an Image.swift"; sourceTree = "<group>"; };
+		072F3A3F2A8F815900059D7E /* C45_Shadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C45_Shadow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 				072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */,
 				072F3A392A8F7ED000059D7E /* C43_Context.swift */,
 				072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */,
+				072F3A3F2A8F815900059D7E /* C45_Shadow.swift */,
 			);
 			path = "Images & Icons";
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
 				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
+				072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,

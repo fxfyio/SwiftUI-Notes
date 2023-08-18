@@ -9,7 +9,22 @@ import SwiftUI
 
 struct C45_Shadow: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Image("CoolCat")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                .frame(width: 200, height: 200)
+                .shadow(radius: 10)
+            
+            Divider()
+
+            Image("BirdDrinks")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                .frame(width: 300, height: 300)
+                .shadow(color: .gray, radius: 20, x: 0, y: 0)
+            
+        }
     }
 }
 
