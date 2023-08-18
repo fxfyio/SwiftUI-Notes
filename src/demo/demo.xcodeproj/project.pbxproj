@@ -50,6 +50,7 @@
 		072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A392A8F7ED000059D7E /* C43_Context.swift */; };
 		072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */; };
 		072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3F2A8F815900059D7E /* C45_Shadow.swift */; };
+		072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A412A8F840800059D7E /* C46_Filter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -98,6 +99,7 @@
 		072F3A392A8F7ED000059D7E /* C43_Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C43_Context.swift; sourceTree = "<group>"; };
 		072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C44_Custom Shape for an Image.swift"; sourceTree = "<group>"; };
 		072F3A3F2A8F815900059D7E /* C45_Shadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C45_Shadow.swift; sourceTree = "<group>"; };
+		072F3A412A8F840800059D7E /* C46_Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C46_Filter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				072F3A392A8F7ED000059D7E /* C43_Context.swift */,
 				072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */,
 				072F3A3F2A8F815900059D7E /* C45_Shadow.swift */,
+				072F3A412A8F840800059D7E /* C46_Filter.swift */,
 			);
 			path = "Images & Icons";
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
 				072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */,
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
+				072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
 				072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */,
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
