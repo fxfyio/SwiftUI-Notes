@@ -21,6 +21,7 @@
 		072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39FB2A8F2E3800059D7E /* MyView.swift */; };
 		072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39FD2A8F321E00059D7E /* C11_Shadows.swift */; };
 		072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39FF2A8F332200059D7E /* C12_ClipViews.swift */; };
+		072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A012A8F378B00059D7E /* C13_Opacity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		072F39FB2A8F2E3800059D7E /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		072F39FD2A8F321E00059D7E /* C11_Shadows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C11_Shadows.swift; sourceTree = "<group>"; };
 		072F39FF2A8F332200059D7E /* C12_ClipViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C12_ClipViews.swift; sourceTree = "<group>"; };
+		072F3A012A8F378B00059D7E /* C13_Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C13_Opacity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				072F39FB2A8F2E3800059D7E /* MyView.swift */,
 				072F39FD2A8F321E00059D7E /* C11_Shadows.swift */,
 				072F39FF2A8F332200059D7E /* C12_ClipViews.swift */,
+				072F3A012A8F378B00059D7E /* C13_Opacity.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
+				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
