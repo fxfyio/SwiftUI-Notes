@@ -24,6 +24,7 @@
 		072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A012A8F378B00059D7E /* C13_Opacity.swift */; };
 		072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A032A8F38B300059D7E /* C14_Circular.swift */; };
 		072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A052A8F3A2900059D7E /* C15_Grid.swift */; };
+		072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A072A8F3C9400059D7E /* C16_ CustomShapeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		072F3A012A8F378B00059D7E /* C13_Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C13_Opacity.swift; sourceTree = "<group>"; };
 		072F3A032A8F38B300059D7E /* C14_Circular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C14_Circular.swift; sourceTree = "<group>"; };
 		072F3A052A8F3A2900059D7E /* C15_Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C15_Grid.swift; sourceTree = "<group>"; };
+		072F3A072A8F3C9400059D7E /* C16_ CustomShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C16_ CustomShapeView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				072F3A012A8F378B00059D7E /* C13_Opacity.swift */,
 				072F3A032A8F38B300059D7E /* C14_Circular.swift */,
 				072F3A052A8F3A2900059D7E /* C15_Grid.swift */,
+				072F3A072A8F3C9400059D7E /* C16_ CustomShapeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
+				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
