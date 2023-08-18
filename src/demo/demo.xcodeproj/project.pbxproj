@@ -44,6 +44,7 @@
 		072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */; };
 		072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2E2A8F78CB00059D7E /* C36_Secure Field.swift */; };
 		072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */; };
+		072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A332A8F7ADB00059D7E /* C40_Image.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C35_Text Field.swift"; sourceTree = "<group>"; };
 		072F3A2E2A8F78CB00059D7E /* C36_Secure Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C36_Secure Field.swift"; sourceTree = "<group>"; };
 		072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C37_Text Field Keyboard Type.swift"; sourceTree = "<group>"; };
+		072F3A332A8F7ADB00059D7E /* C40_Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C40_Image.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				072F39FA2A8F2E2300059D7E /* View */,
 				072F3A092A8F3DFD00059D7E /*  User Interface */,
 				072F3A1E2A8F71EA00059D7E /* Text & Fonts */,
+				072F3A322A8F7A8300059D7E /* Images & Icons */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
@@ -198,6 +201,14 @@
 				072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */,
 			);
 			path = "Text & Fonts";
+			sourceTree = "<group>";
+		};
+		072F3A322A8F7A8300059D7E /* Images & Icons */ = {
+			isa = PBXGroup;
+			children = (
+				072F3A332A8F7ADB00059D7E /* C40_Image.swift */,
+			);
+			path = "Images & Icons";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -303,6 +314,7 @@
 				072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
+				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 			);
