@@ -21,6 +21,7 @@ struct MyView: View {
                 
             )
             .border(Color.black, width: 1)
+            .shadow(radius: 10)
     }
 }
 
