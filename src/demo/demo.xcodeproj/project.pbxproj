@@ -48,6 +48,7 @@
 		072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */; };
 		072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */; };
 		072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A392A8F7ED000059D7E /* C43_Context.swift */; };
+		072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -94,6 +95,7 @@
 		072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C41_Crop an Image.swift"; sourceTree = "<group>"; };
 		072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C42_Icon from SF Symbols.swift"; sourceTree = "<group>"; };
 		072F3A392A8F7ED000059D7E /* C43_Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C43_Context.swift; sourceTree = "<group>"; };
+		072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C44_Custom Shape for an Image.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				072F3A352A8F7C4400059D7E /* C41_Crop an Image.swift */,
 				072F3A372A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift */,
 				072F3A392A8F7ED000059D7E /* C43_Context.swift */,
+				072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */,
 			);
 			path = "Images & Icons";
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
+				072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */,
 				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
