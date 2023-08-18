@@ -9,7 +9,37 @@ import SwiftUI
 
 struct C05_NavigationStack: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            VStack {
+                Text("welcome to my app")
+                    .padding()
+                    .font(.largeTitle)
+                NavigationLink(destination: DetailView()) {
+                    Text("Go to Detail View")
+                        .font(.subheadline)
+                }
+            }
+            .navigationTitle("Home")
+            .navigationBarTitleDisplayMode(.large)
+            .toolbar {
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    Button {
+                        print("Settings tapped")
+                    } label: {
+                        Text("Settings")
+                    }
+                    
+                }
+            }
+        }
+    }
+}
+
+struct DetailView: View {
+    var body: some View {
+        Text("This is the detail view")
+            .navigationTitle("Detail")
+            .navigationBarTitleDisplayMode(.large)
     }
 }
 

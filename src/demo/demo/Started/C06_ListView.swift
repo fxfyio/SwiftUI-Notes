@@ -8,8 +8,11 @@
 import SwiftUI
 
 struct C06_ListView: View {
+    let tasks = ["Task 1", "Task 2", "Task 3", "Task 4", "Task 5", "Task 6", "Task 7"]
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List(tasks, id: \.self) { task in
+            Text(task)
+        }
     }
 }
 
