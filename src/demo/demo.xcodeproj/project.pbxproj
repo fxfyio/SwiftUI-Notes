@@ -43,6 +43,7 @@
 		072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */; };
 		072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */; };
 		072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2E2A8F78CB00059D7E /* C36_Secure Field.swift */; };
+		072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +85,7 @@
 		072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C34_Custom Fonts.swift"; sourceTree = "<group>"; };
 		072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C35_Text Field.swift"; sourceTree = "<group>"; };
 		072F3A2E2A8F78CB00059D7E /* C36_Secure Field.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C36_Secure Field.swift"; sourceTree = "<group>"; };
+		072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C37_Text Field Keyboard Type.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 				072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */,
 				072F3A2C2A8F77DD00059D7E /* C35_Text Field.swift */,
 				072F3A2E2A8F78CB00059D7E /* C36_Secure Field.swift */,
+				072F3A302A8F796D00059D7E /* C37_Text Field Keyboard Type.swift */,
 			);
 			path = "Text & Fonts";
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */,
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
+				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
 				072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */,
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
