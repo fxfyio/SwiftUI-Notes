@@ -28,6 +28,7 @@
 		072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0A2A8F3E3600059D7E /* C21_State.swift */; };
 		072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */; };
 		072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */; };
+		072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		072F3A0A2A8F3E3600059D7E /* C21_State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C21_State.swift; sourceTree = "<group>"; };
 		072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C22_Binding.swift; sourceTree = "<group>"; };
 		072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C23_ObservableObject.swift; sourceTree = "<group>"; };
+		072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C24_Environment Objects.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				072F3A0A2A8F3E3600059D7E /* C21_State.swift */,
 				072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */,
 				072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */,
+				072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */,
 			);
 			path = " User Interface";
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
+				072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
