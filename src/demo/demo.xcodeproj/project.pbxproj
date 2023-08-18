@@ -13,6 +13,7 @@
 		072F39E32A8F1A8200059D7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 072F39E22A8F1A8200059D7E /* Preview Assets.xcassets */; };
 		072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39EA2A8F1ABB00059D7E /* C01_HelloWorld.swift */; };
 		072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39EE2A8F1D2F00059D7E /* C02_Previews.swift */; };
+		072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F39F02A8F1EE600059D7E /* C03_ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		072F39E22A8F1A8200059D7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		072F39EA2A8F1ABB00059D7E /* C01_HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C01_HelloWorld.swift; sourceTree = "<group>"; };
 		072F39EE2A8F1D2F00059D7E /* C02_Previews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C02_Previews.swift; sourceTree = "<group>"; };
+		072F39F02A8F1EE600059D7E /* C03_ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C03_ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				072F39EA2A8F1ABB00059D7E /* C01_HelloWorld.swift */,
 				072F39EE2A8F1D2F00059D7E /* C02_Previews.swift */,
+				072F39F02A8F1EE600059D7E /* C03_ImageView.swift */,
 			);
 			path = Started;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				072F39DE2A8F1A8100059D7E /* ContentView.swift in Sources */,
+				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
