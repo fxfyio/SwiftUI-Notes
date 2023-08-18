@@ -38,6 +38,7 @@
 		072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1F2A8F723600059D7E /* C30_Styling.swift */; };
 		072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */; };
 		072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */; };
+		072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A252A8F753800059D7E /* C33_Format Text.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		072F3A1F2A8F723600059D7E /* C30_Styling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C30_Styling.swift; sourceTree = "<group>"; };
 		072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C31_Multiline Text View.swift"; sourceTree = "<group>"; };
 		072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C32_Dynamic Type Text Styles.swift"; sourceTree = "<group>"; };
+		072F3A252A8F753800059D7E /* C33_Format Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C33_Format Text.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				072F3A1F2A8F723600059D7E /* C30_Styling.swift */,
 				072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */,
 				072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */,
+				072F3A252A8F753800059D7E /* C33_Format Text.swift */,
 			);
 			path = "Text & Fonts";
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
 				072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
+				072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
 				072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */,
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
