@@ -27,6 +27,7 @@
 		072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A072A8F3C9400059D7E /* C16_ CustomShapeView.swift */; };
 		072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0A2A8F3E3600059D7E /* C21_State.swift */; };
 		072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */; };
+		072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		072F3A072A8F3C9400059D7E /* C16_ CustomShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C16_ CustomShapeView.swift"; sourceTree = "<group>"; };
 		072F3A0A2A8F3E3600059D7E /* C21_State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C21_State.swift; sourceTree = "<group>"; };
 		072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C22_Binding.swift; sourceTree = "<group>"; };
+		072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C23_ObservableObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 			children = (
 				072F3A0A2A8F3E3600059D7E /* C21_State.swift */,
 				072F3A0C2A8F3F2A00059D7E /* C22_Binding.swift */,
+				072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */,
 			);
 			path = " User Interface";
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
+				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,

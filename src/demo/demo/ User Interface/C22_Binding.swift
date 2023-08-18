@@ -23,6 +23,7 @@ struct C22_Binding: View {
 struct C22_Binding_Previews: PreviewProvider {
     static var previews: some View {
         C22_Binding()
+        
     }
 }
 
