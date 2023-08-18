@@ -36,6 +36,7 @@
 		072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */; };
 		072F3A1D2A8F703800059D7E /* C2901.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1C2A8F703800059D7E /* C2901.swift */; };
 		072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1F2A8F723600059D7E /* C30_Styling.swift */; };
+		072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C29_Environment.swift; sourceTree = "<group>"; };
 		072F3A1C2A8F703800059D7E /* C2901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C2901.swift; sourceTree = "<group>"; };
 		072F3A1F2A8F723600059D7E /* C30_Styling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C30_Styling.swift; sourceTree = "<group>"; };
+		072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C31_Multiline Text View.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 			isa = PBXGroup;
 			children = (
 				072F3A1F2A8F723600059D7E /* C30_Styling.swift */,
+				072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */,
 			);
 			path = "Text & Fonts";
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
+				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 			);
