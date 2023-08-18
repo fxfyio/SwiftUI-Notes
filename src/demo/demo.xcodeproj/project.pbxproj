@@ -39,6 +39,8 @@
 		072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */; };
 		072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */; };
 		072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A252A8F753800059D7E /* C33_Format Text.swift */; };
+		072F3A282A8F76C900059D7E /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */; };
+		072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +77,9 @@
 		072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C31_Multiline Text View.swift"; sourceTree = "<group>"; };
 		072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C32_Dynamic Type Text Styles.swift"; sourceTree = "<group>"; };
 		072F3A252A8F753800059D7E /* C33_Format Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C33_Format Text.swift"; sourceTree = "<group>"; };
+		072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
+		072F3A292A8F770400059D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C34_Custom Fonts.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +112,7 @@
 		072F39DA2A8F1A8100059D7E /* demo */ = {
 			isa = PBXGroup;
 			children = (
+				072F3A292A8F770400059D7E /* Info.plist */,
 				072F39DB2A8F1A8100059D7E /* demoApp.swift */,
 				072F39DD2A8F1A8100059D7E /* ContentView.swift */,
 				072F39E92A8F1A9800059D7E /* Started */,
@@ -114,6 +120,7 @@
 				072F3A092A8F3DFD00059D7E /*  User Interface */,
 				072F3A1E2A8F71EA00059D7E /* Text & Fonts */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
+				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
 			);
 			path = demo;
@@ -179,6 +186,7 @@
 				072F3A212A8F729900059D7E /* C31_Multiline Text View.swift */,
 				072F3A232A8F737900059D7E /* C32_Dynamic Type Text Styles.swift */,
 				072F3A252A8F753800059D7E /* C33_Format Text.swift */,
+				072F3A2A2A8F773200059D7E /* C34_Custom Fonts.swift */,
 			);
 			path = "Text & Fonts";
 			sourceTree = "<group>";
@@ -242,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				072F39E32A8F1A8200059D7E /* Preview Assets.xcassets in Resources */,
+				072F3A282A8F76C900059D7E /* Lobster-Regular.ttf in Resources */,
 				072F39E02A8F1A8200059D7E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,6 +272,7 @@
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
+				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
@@ -413,6 +423,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"demo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = demo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -441,6 +452,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"demo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = demo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
