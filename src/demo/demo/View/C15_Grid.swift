@@ -26,6 +26,7 @@ struct C15_Grid: View {
                     .background(.blue)
                     .foregroundColor(.white)
                     .font(.headline)
+                    .clipShape(RoundedRectangle(cornerRadius: 10))
             }
         }
     }
