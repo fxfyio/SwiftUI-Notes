@@ -30,6 +30,7 @@
 		072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */; };
 		072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */; };
 		072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A122A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift */; };
+		072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A142A8F64B300059D7E /* C26_Combine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C23_ObservableObject.swift; sourceTree = "<group>"; };
 		072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C24_Environment Objects.swift"; sourceTree = "<group>"; };
 		072F3A122A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C25_Managing Observable Objects With StateObject.swift"; sourceTree = "<group>"; };
+		072F3A142A8F64B300059D7E /* C26_Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C26_Combine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				072F3A0E2A8F423800059D7E /* C23_ObservableObject.swift */,
 				072F3A102A8F43CA00059D7E /* C24_Environment Objects.swift */,
 				072F3A122A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift */,
+				072F3A142A8F64B300059D7E /* C26_Combine.swift */,
 			);
 			path = " User Interface";
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
+				072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
