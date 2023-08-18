@@ -33,6 +33,8 @@
 		072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A142A8F64B300059D7E /* C26_Combine.swift */; };
 		072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A162A8F66DF00059D7E /* C27_AppStorage.swift */; };
 		072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A182A8F67F100059D7E /* C28_SceneStorage.swift */; };
+		072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */; };
+		072F3A1D2A8F703800059D7E /* C2901.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A1C2A8F703800059D7E /* C2901.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +65,8 @@
 		072F3A142A8F64B300059D7E /* C26_Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C26_Combine.swift; sourceTree = "<group>"; };
 		072F3A162A8F66DF00059D7E /* C27_AppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C27_AppStorage.swift; sourceTree = "<group>"; };
 		072F3A182A8F67F100059D7E /* C28_SceneStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C28_SceneStorage.swift; sourceTree = "<group>"; };
+		072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C29_Environment.swift; sourceTree = "<group>"; };
+		072F3A1C2A8F703800059D7E /* C2901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C2901.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +157,8 @@
 				072F3A142A8F64B300059D7E /* C26_Combine.swift */,
 				072F3A162A8F66DF00059D7E /* C27_AppStorage.swift */,
 				072F3A182A8F67F100059D7E /* C28_SceneStorage.swift */,
+				072F3A1A2A8F6A3200059D7E /* C29_Environment.swift */,
+				072F3A1C2A8F703800059D7E /* C2901.swift */,
 			);
 			path = " User Interface";
 			sourceTree = "<group>";
@@ -229,6 +235,7 @@
 			files = (
 				072F39DE2A8F1A8100059D7E /* ContentView.swift in Sources */,
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
+				072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
@@ -247,6 +254,7 @@
 				072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */,
 				072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
+				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
