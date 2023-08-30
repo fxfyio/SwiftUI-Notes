@@ -42,9 +42,18 @@ struct C50_Button: View {
                     .resizable()
                     .frame(width: 100, height: 100)
             }
+            
+            Divider()
+            Button("Tap Me!") {
+                buttonTapped()
+            }
 
         }
 
+    }
+    
+    func buttonTapped() {
+        print("Button was tapped!")
     }
 }
 
