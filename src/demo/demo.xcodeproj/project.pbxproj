@@ -53,6 +53,7 @@
 		072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A412A8F840800059D7E /* C46_Filter.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
+		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -105,6 +106,7 @@
 		072F3A412A8F840800059D7E /* C46_Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C46_Filter.swift; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
+		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -146,6 +148,7 @@
 				072F3A092A8F3DFD00059D7E /*  User Interface */,
 				072F3A1E2A8F71EA00059D7E /* Text & Fonts */,
 				072F3A322A8F7A8300059D7E /* Images & Icons */,
+				07B592452A9F12F3008142A2 /* Buttons */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
@@ -236,6 +239,14 @@
 				07B592432A9F1075008142A2 /* C49_Rendering.swift */,
 			);
 			path = "Images & Icons";
+			sourceTree = "<group>";
+		};
+		07B592452A9F12F3008142A2 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				07B592462A9F130C008142A2 /* C50_Button.swift */,
+			);
+			path = Buttons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -348,6 +359,7 @@
 				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
 				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
 				07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */,
+				07B592472A9F130C008142A2 /* C50_Button.swift in Sources */,
 				072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
