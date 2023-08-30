@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct C50_Button: View {
+    @State private var isOn = false
+    @State private var isButtonDisabled = true
     var body: some View {
         
         VStack {
@@ -47,7 +49,14 @@ struct C50_Button: View {
             Button("Tap Me!") {
                 buttonTapped()
             }
+            
+            Divider()
+            Toggle(isOn: $isOn) {
+                Text("Swithc state")
+            }.toggleStyle(.switch)
+                .padding()
 
+            
         }
 
     }
