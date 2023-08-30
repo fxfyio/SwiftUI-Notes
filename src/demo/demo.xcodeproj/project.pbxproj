@@ -52,6 +52,7 @@
 		072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3F2A8F815900059D7E /* C45_Shadow.swift */; };
 		072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A412A8F840800059D7E /* C46_Filter.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
+		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -103,6 +104,7 @@
 		072F3A3F2A8F815900059D7E /* C45_Shadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C45_Shadow.swift; sourceTree = "<group>"; };
 		072F3A412A8F840800059D7E /* C46_Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C46_Filter.swift; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
+		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -231,6 +233,7 @@
 				072F3A412A8F840800059D7E /* C46_Filter.swift */,
 				07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */,
 				07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */,
+				07B592432A9F1075008142A2 /* C49_Rendering.swift */,
 			);
 			path = "Images & Icons";
 			sourceTree = "<group>";
@@ -349,6 +352,7 @@
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,
+				07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
