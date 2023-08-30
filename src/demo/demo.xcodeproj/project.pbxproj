@@ -54,6 +54,7 @@
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
+		07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B5924A2A9F17A9008142A2 /* C51_DisableButton.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -107,6 +108,7 @@
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
+		07B5924A2A9F17A9008142A2 /* C51_DisableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C51_DisableButton.swift; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -245,6 +247,7 @@
 			isa = PBXGroup;
 			children = (
 				07B592462A9F130C008142A2 /* C50_Button.swift */,
+				07B5924A2A9F17A9008142A2 /* C51_DisableButton.swift */,
 			);
 			path = Buttons;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */,
+				07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */,
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
 				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
