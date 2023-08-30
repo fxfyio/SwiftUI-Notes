@@ -35,6 +35,14 @@ struct C50_Button: View {
             
             Divider()
             
+            Button {
+                
+            } label: {
+                Image("AvocadoFriend")
+                    .resizable()
+                    .frame(width: 100, height: 100)
+            }
+
         }
 
     }
