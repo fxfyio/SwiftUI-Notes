@@ -59,6 +59,7 @@
 		07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBA92AA878D6002A7389 /* ListDemo.swift */; };
 		07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */; };
 		07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */; };
+		07BBCBB02AA87FF3002A7389 /* NavigationTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -117,6 +118,7 @@
 		07BBCBA92AA878D6002A7389 /* ListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemo.swift; sourceTree = "<group>"; };
 		07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize List Rows .swift"; sourceTree = "<group>"; };
 		07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Navigation to a List.swift"; sourceTree = "<group>"; };
+		07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTitle.swift; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -268,6 +270,7 @@
 				07BBCBA92AA878D6002A7389 /* ListDemo.swift */,
 				07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */,
 				07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */,
+				07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -372,6 +375,7 @@
 				072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */,
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
 				072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */,
+				07BBCBB02AA87FF3002A7389 /* NavigationTitle.swift in Sources */,
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
 				07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */,
 				072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */,
