@@ -67,6 +67,7 @@
 		07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */; };
 		07BBCBBC2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */; };
 		07BBCBBF2AA88890002A7389 /* Create a Form With Sections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */; };
+		07BBCBC12AA88970002A7389 /* Create a Checkbox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -133,6 +134,7 @@
 		07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a TabView with Lists.swift"; sourceTree = "<group>"; };
 		07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create an Infinitely Scrolling List.swift"; sourceTree = "<group>"; };
 		07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Form With Sections.swift"; sourceTree = "<group>"; };
+		07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Checkbox.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -300,6 +302,7 @@
 			isa = PBXGroup;
 			children = (
 				07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */,
+				07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */,
 			);
 			path = "Forms & Controls ";
 			sourceTree = "<group>";
@@ -422,6 +425,7 @@
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */,
 				072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */,
+				07BBCBC12AA88970002A7389 /* Create a Checkbox.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
 				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
