@@ -66,6 +66,7 @@
 		07BBCBB82AA88443002A7389 /* Add Swipe Actions to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */; };
 		07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */; };
 		07BBCBBC2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */; };
+		07BBCBBF2AA88890002A7389 /* Create a Form With Sections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -131,6 +132,7 @@
 		07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Swipe Actions to a List.swift"; sourceTree = "<group>"; };
 		07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a TabView with Lists.swift"; sourceTree = "<group>"; };
 		07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create an Infinitely Scrolling List.swift"; sourceTree = "<group>"; };
+		07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Form With Sections.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -174,6 +176,7 @@
 				072F3A322A8F7A8300059D7E /* Images & Icons */,
 				07B592452A9F12F3008142A2 /* Buttons */,
 				07BBCBA62AA876F9002A7389 /* Lists & Navigation */,
+				07BBCBBD2AA8885C002A7389 /* Forms & Controls  */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
@@ -293,6 +296,14 @@
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
 		};
+		07BBCBBD2AA8885C002A7389 /* Forms & Controls  */ = {
+			isa = PBXGroup;
+			children = (
+				07BBCBBE2AA88890002A7389 /* Create a Form With Sections.swift */,
+			);
+			path = "Forms & Controls ";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -401,6 +412,7 @@
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
 				07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */,
 				072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */,
+				07BBCBBF2AA88890002A7389 /* Create a Form With Sections.swift in Sources */,
 				072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */,
 				072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */,
 				07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */,

@@ -8,8 +8,23 @@
 import SwiftUI
 
 struct Create_a_Form_With_Sections: View {
+    @State private var name = ""
+    @State private var email = ""
+    @State private var age = ""
+
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            Form {
+                Section(header: Text("Personal Information")) {
+                    TextField("Name", text: $name)
+                    TextField("Email", text: $email)
+                }
+                Section(header: Text("Additional Information")) {
+                    TextField("Age", text: $age)
+                }
+            }.navigationTitle("Registration Form")
+        }
     }
 }
 
