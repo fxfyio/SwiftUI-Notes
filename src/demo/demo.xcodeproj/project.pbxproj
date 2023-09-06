@@ -60,6 +60,8 @@
 		07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */; };
 		07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */; };
 		07BBCBB02AA87FF3002A7389 /* NavigationTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */; };
+		07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */; };
+		07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -119,6 +121,8 @@
 		07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize List Rows .swift"; sourceTree = "<group>"; };
 		07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Navigation to a List.swift"; sourceTree = "<group>"; };
 		07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTitle.swift; sourceTree = "<group>"; };
+		07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Button to a NavigationBar.swift"; sourceTree = "<group>"; };
+		07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement Section Headers in a List.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -271,6 +275,8 @@
 				07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */,
 				07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */,
 				07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */,
+				07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */,
+				07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -361,6 +367,7 @@
 				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
+				07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */,
@@ -381,6 +388,7 @@
 				072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */,
 				072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */,
 				072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */,
+				07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */,
 				07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
 				07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */,
