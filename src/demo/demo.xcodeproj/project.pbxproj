@@ -63,6 +63,7 @@
 		07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */; };
 		07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */; };
 		07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */; };
+		07BBCBB82AA88443002A7389 /* Add Swipe Actions to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -125,6 +126,7 @@
 		07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Button to a NavigationBar.swift"; sourceTree = "<group>"; };
 		07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement Section Headers in a List.swift"; sourceTree = "<group>"; };
 		07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Search Bar in a List.swift"; sourceTree = "<group>"; };
+		07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Swipe Actions to a List.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -280,6 +282,7 @@
 				07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */,
 				07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */,
 				07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */,
+				07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -405,6 +408,7 @@
 				07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */,
 				07B592472A9F130C008142A2 /* C50_Button.swift in Sources */,
 				072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */,
+				07BBCBB82AA88443002A7389 /* Add Swipe Actions to a List.swift in Sources */,
 				072F39F92A8F2C3D00059D7E /* C07_Form.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,
