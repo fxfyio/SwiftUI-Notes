@@ -64,6 +64,7 @@
 		07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */; };
 		07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */; };
 		07BBCBB82AA88443002A7389 /* Add Swipe Actions to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */; };
+		07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -127,6 +128,7 @@
 		07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement Section Headers in a List.swift"; sourceTree = "<group>"; };
 		07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Search Bar in a List.swift"; sourceTree = "<group>"; };
 		07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Swipe Actions to a List.swift"; sourceTree = "<group>"; };
+		07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a TabView with Lists.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -283,6 +285,7 @@
 				07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */,
 				07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */,
 				07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */,
+				07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
 				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
 				072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */,
+				07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */,
 				07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */,
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
 				072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */,
