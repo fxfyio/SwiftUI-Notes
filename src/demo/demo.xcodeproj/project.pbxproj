@@ -62,6 +62,7 @@
 		07BBCBB02AA87FF3002A7389 /* NavigationTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */; };
 		07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */; };
 		07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */; };
+		07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -123,6 +124,7 @@
 		07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTitle.swift; sourceTree = "<group>"; };
 		07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Button to a NavigationBar.swift"; sourceTree = "<group>"; };
 		07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implement Section Headers in a List.swift"; sourceTree = "<group>"; };
+		07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Search Bar in a List.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -277,6 +279,7 @@
 				07BBCBAF2AA87FF3002A7389 /* NavigationTitle.swift */,
 				07BBCBB12AA8810C002A7389 /* Add a Button to a NavigationBar.swift */,
 				07BBCBB32AA88189002A7389 /* Implement Section Headers in a List.swift */,
+				07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */,
 				072F39DE2A8F1A8100059D7E /* ContentView.swift in Sources */,
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
 				072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */,
