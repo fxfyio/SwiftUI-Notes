@@ -65,6 +65,7 @@
 		07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */; };
 		07BBCBB82AA88443002A7389 /* Add Swipe Actions to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */; };
 		07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */; };
+		07BBCBBC2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -129,6 +130,7 @@
 		07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Search Bar in a List.swift"; sourceTree = "<group>"; };
 		07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Swipe Actions to a List.swift"; sourceTree = "<group>"; };
 		07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a TabView with Lists.swift"; sourceTree = "<group>"; };
+		07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create an Infinitely Scrolling List.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -286,6 +288,7 @@
 				07BBCBB52AA88302002A7389 /* Create a Search Bar in a List.swift */,
 				07BBCBB72AA88443002A7389 /* Add Swipe Actions to a List.swift */,
 				07BBCBB92AA885D6002A7389 /* Create a TabView with Lists.swift */,
+				07BBCBBB2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
+				07BBCBBC2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift in Sources */,
 				072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */,
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
