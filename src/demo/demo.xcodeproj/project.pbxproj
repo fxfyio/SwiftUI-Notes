@@ -58,6 +58,7 @@
 		07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B5924C2A9F1B3E008142A2 /* C52_IconButton.swift */; };
 		07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBA92AA878D6002A7389 /* ListDemo.swift */; };
 		07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */; };
+		07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -115,6 +116,7 @@
 		07B5924C2A9F1B3E008142A2 /* C52_IconButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C52_IconButton.swift; sourceTree = "<group>"; };
 		07BBCBA92AA878D6002A7389 /* ListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemo.swift; sourceTree = "<group>"; };
 		07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize List Rows .swift"; sourceTree = "<group>"; };
+		07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Navigation to a List.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -265,6 +267,7 @@
 			children = (
 				07BBCBA92AA878D6002A7389 /* ListDemo.swift */,
 				07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */,
+				07BBCBAD2AA87D17002A7389 /* Add Navigation to a List.swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 				072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */,
 				07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
+				07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */,
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */,
 				072F3A172A8F66DF00059D7E /* C27_AppStorage.swift in Sources */,
