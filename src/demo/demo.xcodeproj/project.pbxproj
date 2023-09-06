@@ -70,6 +70,7 @@
 		07BBCBC12AA88970002A7389 /* Create a Checkbox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */; };
 		07BBCBC32AA88B2E002A7389 /* Add a Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */; };
 		07BBCBC52AA88BCB002A7389 /* Create a Picke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */; };
+		07BBCBC72AA88E29002A7389 /* Create a Date Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -139,6 +140,7 @@
 		07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Checkbox.swift"; sourceTree = "<group>"; };
 		07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Stepper.swift"; sourceTree = "<group>"; };
 		07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Picke.swift"; sourceTree = "<group>"; };
+		07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Date Picker.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -309,6 +311,7 @@
 				07BBCBC02AA88970002A7389 /* Create a Checkbox.swift */,
 				07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */,
 				07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */,
+				07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */,
 			);
 			path = "Forms & Controls ";
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				07BBCBC52AA88BCB002A7389 /* Create a Picke.swift in Sources */,
 				072F3A042A8F38B300059D7E /* C14_Circular.swift in Sources */,
 				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,
+				07BBCBC72AA88E29002A7389 /* Create a Date Picker.swift in Sources */,
 				07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
