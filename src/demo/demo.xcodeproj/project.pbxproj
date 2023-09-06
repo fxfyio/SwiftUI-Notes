@@ -57,6 +57,7 @@
 		07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B5924A2A9F17A9008142A2 /* C51_DisableButton.swift */; };
 		07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B5924C2A9F1B3E008142A2 /* C52_IconButton.swift */; };
 		07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBA92AA878D6002A7389 /* ListDemo.swift */; };
+		07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -113,6 +114,7 @@
 		07B5924A2A9F17A9008142A2 /* C51_DisableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C51_DisableButton.swift; sourceTree = "<group>"; };
 		07B5924C2A9F1B3E008142A2 /* C52_IconButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C52_IconButton.swift; sourceTree = "<group>"; };
 		07BBCBA92AA878D6002A7389 /* ListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemo.swift; sourceTree = "<group>"; };
+		07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize List Rows .swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -262,6 +264,7 @@
 			isa = PBXGroup;
 			children = (
 				07BBCBA92AA878D6002A7389 /* ListDemo.swift */,
+				07BBCBAB2AA87BA2002A7389 /* Customize List Rows .swift */,
 			);
 			path = "Lists & Navigation";
 			sourceTree = "<group>";
@@ -367,6 +370,7 @@
 				072F39DC2A8F1A8100059D7E /* demoApp.swift in Sources */,
 				072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */,
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
+				07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */,
 				072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */,
 				072F3A112A8F43CA00059D7E /* C24_Environment Objects.swift in Sources */,
 				072F3A132A8F4A1900059D7E /* C25_Managing Observable Objects With StateObject.swift in Sources */,
