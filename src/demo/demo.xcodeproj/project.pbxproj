@@ -95,6 +95,7 @@
 		074356582AAF18A400AE5463 /* Implementing Swipe to Delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */; };
 		0743565A2AAF197800AE5463 /* Rotating Views with Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */; };
 		0743565C2AAF1A2500AE5463 /* Implementing Pinch to Zoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743565B2AAF1A2500AE5463 /* Implementing Pinch to Zoom.swift */; };
+		0743565E2AAF1AA200AE5463 /* Using Gesture Priority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743565D2AAF1AA200AE5463 /* Using Gesture Priority.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -210,6 +211,7 @@
 		074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Swipe to Delete.swift"; sourceTree = "<group>"; };
 		074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotating Views with Gestures.swift"; sourceTree = "<group>"; };
 		0743565B2AAF1A2500AE5463 /* Implementing Pinch to Zoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Pinch to Zoom.swift"; sourceTree = "<group>"; };
+		0743565D2AAF1AA200AE5463 /* Using Gesture Priority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using Gesture Priority.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -445,6 +447,7 @@
 				074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */,
 				074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */,
 				0743565B2AAF1A2500AE5463 /* Implementing Pinch to Zoom.swift */,
+				0743565D2AAF1AA200AE5463 /* Using Gesture Priority.swift */,
 			);
 			path = "Gestures & Interactions";
 			sourceTree = "<group>";
@@ -636,6 +639,7 @@
 				074356392AAF09E100AE5463 /* Declare an Animation.swift in Sources */,
 				074356212AAEF85B00AE5463 /* Make a Custom Segmented Progress Bar.swift in Sources */,
 				0743561B2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift in Sources */,
+				0743565E2AAF1AA200AE5463 /* Using Gesture Priority.swift in Sources */,
 				0743562E2AAF022400AE5463 /* Understanding HStack & Spacer.swift in Sources */,
 				07BBCBC92AA88F09002A7389 /* Create a Slider.swift in Sources */,
 				074356492AAF122A00AE5463 /* Create a Repeating Animation.swift in Sources */,
