@@ -53,6 +53,8 @@
 		072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A412A8F840800059D7E /* C46_Filter.swift */; };
 		074355F72AAEBBCA00AE5463 /* Create a Segmented Control.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355F62AAEBBCA00AE5463 /* Create a Segmented Control.swift */; };
 		074355F92AAEBDCC00AE5463 /* Create a Color Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355F82AAEBDCC00AE5463 /* Create a Color Picker.swift */; };
+		074355FC2AAEC14800AE5463 /* Customize Tab View Appearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355FB2AAEC14800AE5463 /* Customize Tab View Appearance.swift */; };
+		074355FE2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -126,6 +128,8 @@
 		072F3A412A8F840800059D7E /* C46_Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C46_Filter.swift; sourceTree = "<group>"; };
 		074355F62AAEBBCA00AE5463 /* Create a Segmented Control.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Segmented Control.swift"; sourceTree = "<group>"; };
 		074355F82AAEBDCC00AE5463 /* Create a Color Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Color Picker.swift"; sourceTree = "<group>"; };
+		074355FB2AAEC14800AE5463 /* Customize Tab View Appearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize Tab View Appearance.swift"; sourceTree = "<group>"; };
+		074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Custom Icons to Tab View Items.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -191,6 +195,7 @@
 				07B592452A9F12F3008142A2 /* Buttons */,
 				07BBCBA62AA876F9002A7389 /* Lists & Navigation */,
 				07BBCBBD2AA8885C002A7389 /* Forms & Controls  */,
+				074355FA2AAEBF7000AE5463 /* Tab Views & Split Views */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
@@ -281,6 +286,15 @@
 				07B592432A9F1075008142A2 /* C49_Rendering.swift */,
 			);
 			path = "Images & Icons";
+			sourceTree = "<group>";
+		};
+		074355FA2AAEBF7000AE5463 /* Tab Views & Split Views */ = {
+			isa = PBXGroup;
+			children = (
+				074355FB2AAEC14800AE5463 /* Customize Tab View Appearance.swift */,
+				074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */,
+			);
+			path = "Tab Views & Split Views";
 			sourceTree = "<group>";
 		};
 		07B592452A9F12F3008142A2 /* Buttons */ = {
@@ -413,10 +427,12 @@
 				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
+				074355FC2AAEC14800AE5463 /* Customize Tab View Appearance.swift in Sources */,
 				07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */,
+				074355FE2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift in Sources */,
 				072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */,
 				07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */,
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
