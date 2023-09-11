@@ -85,6 +85,7 @@
 		074356432AAF0EFA00AE5463 /* Animate a View's Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */; };
 		074356452AAF100100AE5463 /* Create a Spring Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356442AAF100100AE5463 /* Create a Spring Animation.swift */; };
 		074356472AAF108D00AE5463 /* Create a Delayed Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */; };
+		074356492AAF122A00AE5463 /* Create a Repeating Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -190,6 +191,7 @@
 		074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Size.swift"; sourceTree = "<group>"; };
 		074356442AAF100100AE5463 /* Create a Spring Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Spring Animation.swift"; sourceTree = "<group>"; };
 		074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Delayed Animation.swift"; sourceTree = "<group>"; };
+		074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Repeating Animation.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -407,6 +409,7 @@
 				074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */,
 				074356442AAF100100AE5463 /* Create a Spring Animation.swift */,
 				074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */,
+				074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */,
 			);
 			path = "Animations & Transitions ";
 			sourceTree = "<group>";
@@ -595,6 +598,7 @@
 				0743561B2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift in Sources */,
 				0743562E2AAF022400AE5463 /* Understanding HStack & Spacer.swift in Sources */,
 				07BBCBC92AA88F09002A7389 /* Create a Slider.swift in Sources */,
+				074356492AAF122A00AE5463 /* Create a Repeating Animation.swift in Sources */,
 				07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */,
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				074356342AAF063200AE5463 /* Using Alignment Guides.swift in Sources */,
