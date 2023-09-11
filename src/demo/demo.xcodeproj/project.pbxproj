@@ -71,6 +71,7 @@
 		074356232AAEFB4500AE5463 /* Create a Custom Progress View .swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356222AAEFB4500AE5463 /* Create a Custom Progress View .swift */; };
 		074356262AAEFD6800AE5463 /* Understanding Frames & Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356252AAEFD6800AE5463 /* Understanding Frames & Alignment.swift */; };
 		074356282AAEFE3600AE5463 /* Using LazyVGrid & LazyHGrid for Grid Layouts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356272AAEFE3600AE5463 /* Using LazyVGrid & LazyHGrid for Grid Layouts.swift */; };
+		0743562A2AAEFFD700AE5463 /* Using ScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356292AAEFFD700AE5463 /* Using ScrollView.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -162,6 +163,7 @@
 		074356222AAEFB4500AE5463 /* Create a Custom Progress View .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Custom Progress View .swift"; sourceTree = "<group>"; };
 		074356252AAEFD6800AE5463 /* Understanding Frames & Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Understanding Frames & Alignment.swift"; sourceTree = "<group>"; };
 		074356272AAEFE3600AE5463 /* Using LazyVGrid & LazyHGrid for Grid Layouts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using LazyVGrid & LazyHGrid for Grid Layouts.swift"; sourceTree = "<group>"; };
+		074356292AAEFFD700AE5463 /* Using ScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using ScrollView.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -357,6 +359,7 @@
 			children = (
 				074356252AAEFD6800AE5463 /* Understanding Frames & Alignment.swift */,
 				074356272AAEFE3600AE5463 /* Using LazyVGrid & LazyHGrid for Grid Layouts.swift */,
+				074356292AAEFFD700AE5463 /* Using ScrollView.swift */,
 			);
 			path = "Frames & Layouts";
 			sourceTree = "<group>";
@@ -519,6 +522,7 @@
 				072F3A362A8F7C4400059D7E /* C41_Crop an Image.swift in Sources */,
 				07BBCBB02AA87FF3002A7389 /* NavigationTitle.swift in Sources */,
 				0743561F2AAEF7F000AE5463 /* Add a Progress View to a Navigation Bar.swift in Sources */,
+				0743562A2AAEFFD700AE5463 /* Using ScrollView.swift in Sources */,
 				072F3A0D2A8F3F2A00059D7E /* C22_Binding.swift in Sources */,
 				07BBCBAC2AA87BA2002A7389 /* Customize List Rows .swift in Sources */,
 				072F3A192A8F67F100059D7E /* C28_SceneStorage.swift in Sources */,
