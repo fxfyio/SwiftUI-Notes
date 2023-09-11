@@ -51,6 +51,7 @@
 		072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */; };
 		072F3A402A8F815900059D7E /* C45_Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A3F2A8F815900059D7E /* C45_Shadow.swift */; };
 		072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072F3A412A8F840800059D7E /* C46_Filter.swift */; };
+		074355F72AAEBBCA00AE5463 /* Create a Segmented Control.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355F62AAEBBCA00AE5463 /* Create a Segmented Control.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -71,6 +72,7 @@
 		07BBCBC32AA88B2E002A7389 /* Add a Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */; };
 		07BBCBC52AA88BCB002A7389 /* Create a Picke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */; };
 		07BBCBC72AA88E29002A7389 /* Create a Date Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */; };
+		07BBCBC92AA88F09002A7389 /* Create a Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBCBC82AA88F09002A7389 /* Create a Slider.swift */; };
 		07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */; };
 /* End PBXBuildFile section */
 
@@ -121,6 +123,7 @@
 		072F3A3B2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C44_Custom Shape for an Image.swift"; sourceTree = "<group>"; };
 		072F3A3F2A8F815900059D7E /* C45_Shadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C45_Shadow.swift; sourceTree = "<group>"; };
 		072F3A412A8F840800059D7E /* C46_Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C46_Filter.swift; sourceTree = "<group>"; };
+		074355F62AAEBBCA00AE5463 /* Create a Segmented Control.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Segmented Control.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -141,6 +144,7 @@
 		07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Stepper.swift"; sourceTree = "<group>"; };
 		07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Picke.swift"; sourceTree = "<group>"; };
 		07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Date Picker.swift"; sourceTree = "<group>"; };
+		07BBCBC82AA88F09002A7389 /* Create a Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Slider.swift"; sourceTree = "<group>"; };
 		07C33A372A9301560089A9B1 /* C47_Blend Two Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "C47_Blend Two Images.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -312,6 +316,8 @@
 				07BBCBC22AA88B2E002A7389 /* Add a Stepper.swift */,
 				07BBCBC42AA88BCB002A7389 /* Create a Picke.swift */,
 				07BBCBC62AA88E29002A7389 /* Create a Date Picker.swift */,
+				07BBCBC82AA88F09002A7389 /* Create a Slider.swift */,
+				074355F62AAEBBCA00AE5463 /* Create a Segmented Control.swift */,
 			);
 			path = "Forms & Controls ";
 			sourceTree = "<group>";
@@ -413,6 +419,7 @@
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
 				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
+				074355F72AAEBBCA00AE5463 /* Create a Segmented Control.swift in Sources */,
 				072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */,
 				07BBCBC32AA88B2E002A7389 /* Add a Stepper.swift in Sources */,
 				07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */,
@@ -431,6 +438,7 @@
 				07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */,
 				07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
+				07BBCBC92AA88F09002A7389 /* Create a Slider.swift in Sources */,
 				07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */,
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
 				072F3A3A2A8F7ED000059D7E /* C43_Context.swift in Sources */,
