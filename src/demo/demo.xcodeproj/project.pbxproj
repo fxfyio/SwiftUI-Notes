@@ -92,6 +92,7 @@
 		074356522AAF16D900AE5463 /* Detecting Taps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356512AAF16D900AE5463 /* Detecting Taps.swift */; };
 		074356542AAF177100AE5463 /* Detecting Long Press Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */; };
 		074356562AAF17F300AE5463 /* Implementing Dragging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356552AAF17F300AE5463 /* Implementing Dragging.swift */; };
+		074356582AAF18A400AE5463 /* Implementing Swipe to Delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -204,6 +205,7 @@
 		074356512AAF16D900AE5463 /* Detecting Taps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detecting Taps.swift"; sourceTree = "<group>"; };
 		074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detecting Long Press Gestures.swift"; sourceTree = "<group>"; };
 		074356552AAF17F300AE5463 /* Implementing Dragging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Dragging.swift"; sourceTree = "<group>"; };
+		074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Swipe to Delete.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -436,6 +438,7 @@
 				074356512AAF16D900AE5463 /* Detecting Taps.swift */,
 				074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */,
 				074356552AAF17F300AE5463 /* Implementing Dragging.swift */,
+				074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */,
 			);
 			path = "Gestures & Interactions";
 			sourceTree = "<group>";
@@ -561,6 +564,7 @@
 				072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */,
 				072F3A1B2A8F6A3200059D7E /* C29_Environment.swift in Sources */,
 				0743562C2AAF00FA00AE5463 /* Understanding ZStack & VStack.swift in Sources */,
+				074356582AAF18A400AE5463 /* Implementing Swipe to Delete.swift in Sources */,
 				072F39FE2A8F321E00059D7E /* C11_Shadows.swift in Sources */,
 				072F3A262A8F753800059D7E /* C33_Format Text.swift in Sources */,
 				072F39FC2A8F2E3800059D7E /* MyView.swift in Sources */,
