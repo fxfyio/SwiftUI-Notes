@@ -57,6 +57,7 @@
 		074355FE2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */; };
 		074356002AAEC2F500AE5463 /* Create a Split View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074355FF2AAEC2F500AE5463 /* Create a Split View.swift */; };
 		074356022AAEC50B00AE5463 /* Customize Split View Appearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356012AAEC50B00AE5463 /* Customize Split View Appearance.swift */; };
+		074356042AAEC7B200AE5463 /* Add Detail View to Split View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -134,6 +135,7 @@
 		074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Custom Icons to Tab View Items.swift"; sourceTree = "<group>"; };
 		074355FF2AAEC2F500AE5463 /* Create a Split View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Split View.swift"; sourceTree = "<group>"; };
 		074356012AAEC50B00AE5463 /* Customize Split View Appearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize Split View Appearance.swift"; sourceTree = "<group>"; };
+		074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Detail View to Split View.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -299,6 +301,7 @@
 				074355FD2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift */,
 				074355FF2AAEC2F500AE5463 /* Create a Split View.swift */,
 				074356012AAEC50B00AE5463 /* Customize Split View Appearance.swift */,
+				074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */,
 			);
 			path = "Tab Views & Split Views";
 			sourceTree = "<group>";
@@ -473,6 +476,7 @@
 				07BBCBC12AA88970002A7389 /* Create a Checkbox.swift in Sources */,
 				072F39F52A8F22A500059D7E /* C05_NavigationStack.swift in Sources */,
 				072F3A222A8F729900059D7E /* C31_Multiline Text View.swift in Sources */,
+				074356042AAEC7B200AE5463 /* Add Detail View to Split View.swift in Sources */,
 				072F3A342A8F7ADB00059D7E /* C40_Image.swift in Sources */,
 				07C33A382A9301560089A9B1 /* C47_Blend Two Images.swift in Sources */,
 				07B592472A9F130C008142A2 /* C50_Button.swift in Sources */,
