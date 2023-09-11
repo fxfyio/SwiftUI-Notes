@@ -63,6 +63,8 @@
 		0743560A2AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356092AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift */; };
 		0743560D2AAEDF2B00AE5463 /* Animate a Progress Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743560C2AAEDF2B00AE5463 /* Animate a Progress Bar.swift */; };
 		074356172AAEE4B000AE5463 /* Create a Spinning Activity Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356162AAEE4B000AE5463 /* Create a Spinning Activity Indicator.swift */; };
+		074356192AAEE95100AE5463 /* Customize the Style of Progress Indicators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356182AAEE95100AE5463 /* Customize the Style of Progress Indicators.swift */; };
+		0743561B2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743561A2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -146,6 +148,8 @@
 		074356092AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Tab View to Navigation View.swift"; sourceTree = "<group>"; };
 		0743560C2AAEDF2B00AE5463 /* Animate a Progress Bar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a Progress Bar.swift"; sourceTree = "<group>"; };
 		074356162AAEE4B000AE5463 /* Create a Spinning Activity Indicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Spinning Activity Indicator.swift"; sourceTree = "<group>"; };
+		074356182AAEE95100AE5463 /* Customize the Style of Progress Indicators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Customize the Style of Progress Indicators.swift"; sourceTree = "<group>"; };
+		0743561A2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Circular Progress Bar.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -325,6 +329,8 @@
 			children = (
 				0743560C2AAEDF2B00AE5463 /* Animate a Progress Bar.swift */,
 				074356162AAEE4B000AE5463 /* Create a Spinning Activity Indicator.swift */,
+				074356182AAEE95100AE5463 /* Customize the Style of Progress Indicators.swift */,
+				0743561A2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift */,
 			);
 			path = "Progress Indicators";
 			sourceTree = "<group>";
@@ -476,6 +482,7 @@
 				072F3A2F2A8F78CB00059D7E /* C36_Secure Field.swift in Sources */,
 				07BBCBC32AA88B2E002A7389 /* Add a Stepper.swift in Sources */,
 				07BBCBBA2AA885D6002A7389 /* Create a TabView with Lists.swift in Sources */,
+				074356192AAEE95100AE5463 /* Customize the Style of Progress Indicators.swift in Sources */,
 				07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */,
 				072F3A0B2A8F3E3600059D7E /* C21_State.swift in Sources */,
 				072F3A422A8F840800059D7E /* C46_Filter.swift in Sources */,
@@ -492,6 +499,7 @@
 				07BBCBB22AA8810C002A7389 /* Add a Button to a NavigationBar.swift in Sources */,
 				07B5924D2A9F1B3E008142A2 /* C52_IconButton.swift in Sources */,
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
+				0743561B2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift in Sources */,
 				07BBCBC92AA88F09002A7389 /* Create a Slider.swift in Sources */,
 				07BBCBAE2AA87D17002A7389 /* Add Navigation to a List.swift in Sources */,
 				072F3A1D2A8F703800059D7E /* C2901.swift in Sources */,
