@@ -79,6 +79,7 @@
 		074356342AAF063200AE5463 /* Using Alignment Guides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356332AAF063200AE5463 /* Using Alignment Guides.swift */; };
 		074356362AAF07B000AE5463 /* Mastering Safe Areas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356352AAF07B000AE5463 /* Mastering Safe Areas.swift */; };
 		074356392AAF09E100AE5463 /* Declare an Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356382AAF09E100AE5463 /* Declare an Animation.swift */; };
+		0743563B2AAF0AE900AE5463 /* Animate a View's Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -178,6 +179,7 @@
 		074356332AAF063200AE5463 /* Using Alignment Guides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using Alignment Guides.swift"; sourceTree = "<group>"; };
 		074356352AAF07B000AE5463 /* Mastering Safe Areas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mastering Safe Areas.swift"; sourceTree = "<group>"; };
 		074356382AAF09E100AE5463 /* Declare an Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Declare an Animation.swift"; sourceTree = "<group>"; };
+		0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Opacity.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -389,6 +391,7 @@
 			isa = PBXGroup;
 			children = (
 				074356382AAF09E100AE5463 /* Declare an Animation.swift */,
+				0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */,
 			);
 			path = "Animations & Transitions ";
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */,
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
 				072F39F72A8F273300059D7E /* C06_ListView.swift in Sources */,
+				0743563B2AAF0AE900AE5463 /* Animate a View's Opacity.swift in Sources */,
 				072F3A312A8F796D00059D7E /* C37_Text Field Keyboard Type.swift in Sources */,
 				074356262AAEFD6800AE5463 /* Understanding Frames & Alignment.swift in Sources */,
 				074355F72AAEBBCA00AE5463 /* Create a Segmented Control.swift in Sources */,
