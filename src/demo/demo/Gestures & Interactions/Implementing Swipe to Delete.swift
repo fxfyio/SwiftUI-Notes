@@ -17,7 +17,7 @@ struct Implementing_Swipe_to_Delete: View {
                     item in
                     Text(item)
                 }
- ç            }
+             }
             .navigationTitle("Swipe to Delete")
         }
     }

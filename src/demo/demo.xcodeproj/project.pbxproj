@@ -93,6 +93,7 @@
 		074356542AAF177100AE5463 /* Detecting Long Press Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */; };
 		074356562AAF17F300AE5463 /* Implementing Dragging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356552AAF17F300AE5463 /* Implementing Dragging.swift */; };
 		074356582AAF18A400AE5463 /* Implementing Swipe to Delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */; };
+		0743565A2AAF197800AE5463 /* Rotating Views with Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -206,6 +207,7 @@
 		074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detecting Long Press Gestures.swift"; sourceTree = "<group>"; };
 		074356552AAF17F300AE5463 /* Implementing Dragging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Dragging.swift"; sourceTree = "<group>"; };
 		074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Swipe to Delete.swift"; sourceTree = "<group>"; };
+		074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotating Views with Gestures.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -439,6 +441,7 @@
 				074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */,
 				074356552AAF17F300AE5463 /* Implementing Dragging.swift */,
 				074356572AAF18A400AE5463 /* Implementing Swipe to Delete.swift */,
+				074356592AAF197800AE5463 /* Rotating Views with Gestures.swift */,
 			);
 			path = "Gestures & Interactions";
 			sourceTree = "<group>";
@@ -571,6 +574,7 @@
 				0743563D2AAF0BBA00AE5463 /* Animate a View's Position.swift in Sources */,
 				07BBCBBC2AA886F1002A7389 /* Create an Infinitely Scrolling List.swift in Sources */,
 				072F3A202A8F723600059D7E /* C30_Styling.swift in Sources */,
+				0743565A2AAF197800AE5463 /* Rotating Views with Gestures.swift in Sources */,
 				072F3A0F2A8F423800059D7E /* C23_ObservableObject.swift in Sources */,
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
