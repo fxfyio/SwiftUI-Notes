@@ -91,6 +91,7 @@
 		0743564F2AAF14B000AE5463 /* Animate View Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743564E2AAF14B000AE5463 /* Animate View Transitions.swift */; };
 		074356522AAF16D900AE5463 /* Detecting Taps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356512AAF16D900AE5463 /* Detecting Taps.swift */; };
 		074356542AAF177100AE5463 /* Detecting Long Press Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */; };
+		074356562AAF17F300AE5463 /* Implementing Dragging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356552AAF17F300AE5463 /* Implementing Dragging.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -202,6 +203,7 @@
 		0743564E2AAF14B000AE5463 /* Animate View Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate View Transitions.swift"; sourceTree = "<group>"; };
 		074356512AAF16D900AE5463 /* Detecting Taps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detecting Taps.swift"; sourceTree = "<group>"; };
 		074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detecting Long Press Gestures.swift"; sourceTree = "<group>"; };
+		074356552AAF17F300AE5463 /* Implementing Dragging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Implementing Dragging.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -433,6 +435,7 @@
 			children = (
 				074356512AAF16D900AE5463 /* Detecting Taps.swift */,
 				074356532AAF177100AE5463 /* Detecting Long Press Gestures.swift */,
+				074356552AAF17F300AE5463 /* Implementing Dragging.swift */,
 			);
 			path = "Gestures & Interactions";
 			sourceTree = "<group>";
@@ -568,6 +571,7 @@
 				072F3A062A8F3A2900059D7E /* C15_Grid.swift in Sources */,
 				072F3A082A8F3C9400059D7E /* C16_ CustomShapeView.swift in Sources */,
 				072F3A3C2A8F7FD200059D7E /* C44_Custom Shape for an Image.swift in Sources */,
+				074356562AAF17F300AE5463 /* Implementing Dragging.swift in Sources */,
 				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
