@@ -78,6 +78,7 @@
 		074356322AAF04B300AE5463 /* Adding Padding & Spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356312AAF04B300AE5463 /* Adding Padding & Spacing.swift */; };
 		074356342AAF063200AE5463 /* Using Alignment Guides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356332AAF063200AE5463 /* Using Alignment Guides.swift */; };
 		074356362AAF07B000AE5463 /* Mastering Safe Areas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356352AAF07B000AE5463 /* Mastering Safe Areas.swift */; };
+		074356392AAF09E100AE5463 /* Declare an Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356382AAF09E100AE5463 /* Declare an Animation.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -176,6 +177,7 @@
 		074356312AAF04B300AE5463 /* Adding Padding & Spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adding Padding & Spacing.swift"; sourceTree = "<group>"; };
 		074356332AAF063200AE5463 /* Using Alignment Guides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Using Alignment Guides.swift"; sourceTree = "<group>"; };
 		074356352AAF07B000AE5463 /* Mastering Safe Areas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mastering Safe Areas.swift"; sourceTree = "<group>"; };
+		074356382AAF09E100AE5463 /* Declare an Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Declare an Animation.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -244,6 +246,7 @@
 				074355FA2AAEBF7000AE5463 /* Tab Views & Split Views */,
 				0743560B2AAEDEFA00AE5463 /* Progress Indicators */,
 				074356242AAEFD3C00AE5463 /* Frames & Layouts */,
+				074356372AAF092E00AE5463 /* Animations & Transitions  */,
 				072F39DF2A8F1A8200059D7E /* Assets.xcassets */,
 				072F3A272A8F76C800059D7E /* Lobster-Regular.ttf */,
 				072F39E12A8F1A8200059D7E /* Preview Content */,
@@ -380,6 +383,14 @@
 				074356352AAF07B000AE5463 /* Mastering Safe Areas.swift */,
 			);
 			path = "Frames & Layouts";
+			sourceTree = "<group>";
+		};
+		074356372AAF092E00AE5463 /* Animations & Transitions  */ = {
+			isa = PBXGroup;
+			children = (
+				074356382AAF09E100AE5463 /* Declare an Animation.swift */,
+			);
+			path = "Animations & Transitions ";
 			sourceTree = "<group>";
 		};
 		07B592452A9F12F3008142A2 /* Buttons */ = {
@@ -556,6 +567,7 @@
 				072F39F32A8F215A00059D7E /* C04_Button.swift in Sources */,
 				074356282AAEFE3600AE5463 /* Using LazyVGrid & LazyHGrid for Grid Layouts.swift in Sources */,
 				074356232AAEFB4500AE5463 /* Create a Custom Progress View .swift in Sources */,
+				074356392AAF09E100AE5463 /* Declare an Animation.swift in Sources */,
 				074356212AAEF85B00AE5463 /* Make a Custom Segmented Progress Bar.swift in Sources */,
 				0743561B2AAEEFD700AE5463 /* Create a Circular Progress Bar.swift in Sources */,
 				0743562E2AAF022400AE5463 /* Understanding HStack & Spacer.swift in Sources */,
