@@ -82,6 +82,7 @@
 		0743563B2AAF0AE900AE5463 /* Animate a View's Opacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */; };
 		0743563D2AAF0BBA00AE5463 /* Animate a View's Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743563C2AAF0BBA00AE5463 /* Animate a View's Position.swift */; };
 		074356412AAF0D6800AE5463 /* Animate a View's Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356402AAF0D6800AE5463 /* Animate a View's Rotation.swift */; };
+		074356432AAF0EFA00AE5463 /* Animate a View's Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -184,6 +185,7 @@
 		0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Opacity.swift"; sourceTree = "<group>"; };
 		0743563C2AAF0BBA00AE5463 /* Animate a View's Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Position.swift"; sourceTree = "<group>"; };
 		074356402AAF0D6800AE5463 /* Animate a View's Rotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Rotation.swift"; sourceTree = "<group>"; };
+		074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate a View's Size.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -398,6 +400,7 @@
 				0743563A2AAF0AE900AE5463 /* Animate a View's Opacity.swift */,
 				0743563C2AAF0BBA00AE5463 /* Animate a View's Position.swift */,
 				074356402AAF0D6800AE5463 /* Animate a View's Rotation.swift */,
+				074356422AAF0EFA00AE5463 /* Animate a View's Size.swift */,
 			);
 			path = "Animations & Transitions ";
 			sourceTree = "<group>";
@@ -516,6 +519,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07BBCBB62AA88302002A7389 /* Create a Search Bar in a List.swift in Sources */,
+				074356432AAF0EFA00AE5463 /* Animate a View's Size.swift in Sources */,
 				072F39DE2A8F1A8100059D7E /* ContentView.swift in Sources */,
 				072F39F12A8F1EE600059D7E /* C03_ImageView.swift in Sources */,
 				072F3A2D2A8F77DD00059D7E /* C35_Text Field.swift in Sources */,
