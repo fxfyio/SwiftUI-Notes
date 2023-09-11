@@ -87,6 +87,7 @@
 		074356472AAF108D00AE5463 /* Create a Delayed Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */; };
 		074356492AAF122A00AE5463 /* Create a Repeating Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */; };
 		0743564B2AAF12F100AE5463 /* Chain Multiple Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743564A2AAF12F100AE5463 /* Chain Multiple Animations.swift */; };
+		0743564D2AAF140600AE5463 /* Animate Binding Values.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743564C2AAF140600AE5463 /* Animate Binding Values.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -194,6 +195,7 @@
 		074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Delayed Animation.swift"; sourceTree = "<group>"; };
 		074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a Repeating Animation.swift"; sourceTree = "<group>"; };
 		0743564A2AAF12F100AE5463 /* Chain Multiple Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chain Multiple Animations.swift"; sourceTree = "<group>"; };
+		0743564C2AAF140600AE5463 /* Animate Binding Values.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Animate Binding Values.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -413,6 +415,7 @@
 				074356462AAF108D00AE5463 /* Create a Delayed Animation.swift */,
 				074356482AAF122A00AE5463 /* Create a Repeating Animation.swift */,
 				0743564A2AAF12F100AE5463 /* Chain Multiple Animations.swift */,
+				0743564C2AAF140600AE5463 /* Animate Binding Values.swift */,
 			);
 			path = "Animations & Transitions ";
 			sourceTree = "<group>";
@@ -627,6 +630,7 @@
 				074356022AAEC50B00AE5463 /* Customize Split View Appearance.swift in Sources */,
 				072F3A382A8F7CEE00059D7E /* C42_Icon from SF Symbols.swift in Sources */,
 				07BBCBC72AA88E29002A7389 /* Create a Date Picker.swift in Sources */,
+				0743564D2AAF140600AE5463 /* Animate Binding Values.swift in Sources */,
 				07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */,
 				0743560D2AAEDF2B00AE5463 /* Animate a Progress Bar.swift in Sources */,
 			);
