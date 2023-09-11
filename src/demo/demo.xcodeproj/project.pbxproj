@@ -60,6 +60,7 @@
 		074356042AAEC7B200AE5463 /* Add Detail View to Split View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */; };
 		074356062AAEDA5B00AE5463 /* Present Modal View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356052AAEDA5B00AE5463 /* Present Modal View.swift */; };
 		074356082AAEDCAF00AE5463 /* Hide a Tab View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356072AAEDCAF00AE5463 /* Hide a Tab View.swift */; };
+		0743560A2AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356092AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -140,6 +141,7 @@
 		074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Detail View to Split View.swift"; sourceTree = "<group>"; };
 		074356052AAEDA5B00AE5463 /* Present Modal View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Present Modal View.swift"; sourceTree = "<group>"; };
 		074356072AAEDCAF00AE5463 /* Hide a Tab View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hide a Tab View.swift"; sourceTree = "<group>"; };
+		074356092AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add a Tab View to Navigation View.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -308,6 +310,7 @@
 				074356032AAEC7B200AE5463 /* Add Detail View to Split View.swift */,
 				074356052AAEDA5B00AE5463 /* Present Modal View.swift */,
 				074356072AAEDCAF00AE5463 /* Hide a Tab View.swift */,
+				074356092AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift */,
 			);
 			path = "Tab Views & Split Views";
 			sourceTree = "<group>";
@@ -448,6 +451,7 @@
 				072F39EF2A8F1D2F00059D7E /* C02_Previews.swift in Sources */,
 				07BBCBAA2AA878D6002A7389 /* ListDemo.swift in Sources */,
 				074355FE2AAEC25300AE5463 /* Add Custom Icons to Tab View Items.swift in Sources */,
+				0743560A2AAEDE7B00AE5463 /* Add a Tab View to Navigation View.swift in Sources */,
 				072F3A152A8F64B300059D7E /* C26_Combine.swift in Sources */,
 				07B5924B2A9F17A9008142A2 /* C51_DisableButton.swift in Sources */,
 				072F3A242A8F737900059D7E /* C32_Dynamic Type Text Styles.swift in Sources */,
