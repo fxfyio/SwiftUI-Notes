@@ -75,6 +75,7 @@
 		0743562C2AAF00FA00AE5463 /* Understanding ZStack & VStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743562B2AAF00FA00AE5463 /* Understanding ZStack & VStack.swift */; };
 		0743562E2AAF022400AE5463 /* Understanding HStack & Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743562D2AAF022400AE5463 /* Understanding HStack & Spacer.swift */; };
 		074356302AAF03B200AE5463 /* Understanding GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0743562F2AAF03B200AE5463 /* Understanding GeometryReader.swift */; };
+		074356322AAF04B300AE5463 /* Adding Padding & Spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074356312AAF04B300AE5463 /* Adding Padding & Spacing.swift */; };
 		07B592422A9F0CB9008142A2 /* C48_PhotosPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */; };
 		07B592442A9F1075008142A2 /* C49_Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592432A9F1075008142A2 /* C49_Rendering.swift */; };
 		07B592472A9F130C008142A2 /* C50_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B592462A9F130C008142A2 /* C50_Button.swift */; };
@@ -170,6 +171,7 @@
 		0743562B2AAF00FA00AE5463 /* Understanding ZStack & VStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Understanding ZStack & VStack.swift"; sourceTree = "<group>"; };
 		0743562D2AAF022400AE5463 /* Understanding HStack & Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Understanding HStack & Spacer.swift"; sourceTree = "<group>"; };
 		0743562F2AAF03B200AE5463 /* Understanding GeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Understanding GeometryReader.swift"; sourceTree = "<group>"; };
+		074356312AAF04B300AE5463 /* Adding Padding & Spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adding Padding & Spacing.swift"; sourceTree = "<group>"; };
 		07B592412A9F0CB9008142A2 /* C48_PhotosPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C48_PhotosPicker.swift; sourceTree = "<group>"; };
 		07B592432A9F1075008142A2 /* C49_Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C49_Rendering.swift; sourceTree = "<group>"; };
 		07B592462A9F130C008142A2 /* C50_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = C50_Button.swift; sourceTree = "<group>"; };
@@ -369,6 +371,7 @@
 				0743562B2AAF00FA00AE5463 /* Understanding ZStack & VStack.swift */,
 				0743562D2AAF022400AE5463 /* Understanding HStack & Spacer.swift */,
 				0743562F2AAF03B200AE5463 /* Understanding GeometryReader.swift */,
+				074356312AAF04B300AE5463 /* Adding Padding & Spacing.swift */,
 			);
 			path = "Frames & Layouts";
 			sourceTree = "<group>";
@@ -504,6 +507,7 @@
 				072F3A2B2A8F773200059D7E /* C34_Custom Fonts.swift in Sources */,
 				072F39EB2A8F1ABB00059D7E /* C01_HelloWorld.swift in Sources */,
 				072F3A002A8F332200059D7E /* C12_ClipViews.swift in Sources */,
+				074356322AAF04B300AE5463 /* Adding Padding & Spacing.swift in Sources */,
 				074355FC2AAEC14800AE5463 /* Customize Tab View Appearance.swift in Sources */,
 				07BBCBB42AA88189002A7389 /* Implement Section Headers in a List.swift in Sources */,
 				072F3A022A8F378C00059D7E /* C13_Opacity.swift in Sources */,
